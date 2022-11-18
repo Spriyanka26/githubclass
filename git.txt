@@ -1,3 +1,5 @@
 Hello Everyone!
 
 Good Morning!
+
+We have the devops class in the morning !

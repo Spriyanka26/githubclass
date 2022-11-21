@@ -4,3 +4,5 @@ Good Morning !
 New line added from local repo!
 
 new line from remote repo!
+
+Added other line from local repo!

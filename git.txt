@@ -6,4 +6,6 @@ We have the devops class in the morning !
 
 My NEw Line!
 
-New Line for the day is been added !	
+New Line for the day is been added !
+
+To see the commit in the main master changed or not!

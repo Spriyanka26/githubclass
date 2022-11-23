@@ -11,3 +11,5 @@ New Line for the day is been added !
 To see the commit in the main master changed or not!
 
 We would merge the branch to the master!
+
+Done!

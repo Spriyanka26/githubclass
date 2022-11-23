@@ -6,7 +6,3 @@ New line added from local repo!
 new line from remote repo!
 
 Added other line from local repo!
-
-I Wanted to revert to have a check if revert works!
-
-Done!
